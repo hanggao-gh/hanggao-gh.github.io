@@ -1,0 +1,18 @@
+# Theme metadata
+name = "Researcher"
+
+# Is theme light or dark?
+light = true
+
+primary = "#476cbe"
+
+menu_primary = "#FFFFFF"
+menu_text = "#1F2937"
+menu_text_active = "#2563EB"
+menu_title = "#1F2937"
+
+background = "#FFFFFF"
+home_section_odd = "#FFFFFF"
+home_section_even = "#F3F6FA"
+
+font = "rose"

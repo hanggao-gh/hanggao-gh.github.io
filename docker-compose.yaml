@@ -1,0 +1,19 @@
+services:
+  hugo:
+    build: .
+    image: hugo-site
+    platform: linux/arm64
+    working_dir: /site
+    volumes:
+      - ./public:/site/public
+  hugo-dev:
+    image: klakegg/hugo:ext-alpine
+    working_dir: /src
+    command: ["server", "--bind", "0.0.0.0", "--baseURL", "http://localhost:1313", "--appendPort", "true", "--disableFastRender", "--noHTTPCache", "--poll", "700ms", "--renderToDisk"]
+    ports:
+      - "1313:1313"
+    volumes:
+      - ./:/src
+    environment:
+      - HUGO_ENV=development
+      - HUGO_ENABLEGITINFO=false

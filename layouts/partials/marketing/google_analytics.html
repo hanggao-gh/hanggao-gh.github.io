@@ -1,0 +1,13 @@
+{{- $ga := "" -}}
+{{- with site.Params.marketing -}}
+  {{- $ga = .google_analytics | default "" -}}
+{{- end -}}
+{{- if $ga -}}
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ $ga }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', '{{ $ga }}');
+</script>
+{{- end -}}
