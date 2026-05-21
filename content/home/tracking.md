@@ -16,4 +16,4 @@ subtitle:
 design:
   columns: '2'
 ---
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=a&t=n&d=SSz4s3wRfF_NFu4Dls5SiZrV1lpUfZPq0L6wkI4YnyE&co=FFFFFF&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=HotPQDo8LF2mfpfbSb3kFR6xQrW6j-Zb8Sg_bk9lkdg&cl=ffffff&w=a"></script>
