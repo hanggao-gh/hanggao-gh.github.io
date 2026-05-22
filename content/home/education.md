@@ -15,7 +15,7 @@ experience:
     location: Piscataway, NJ, USA
     date_start: '2021-09-01'
 
-  - title: <u>M.S. Student</u> in Computer Science
+  - title: <u>M.S. </u> in Computer Science
     company: Syracuse University
     company_url: 'https://www.syracuse.edu'
     company_logo: sy1

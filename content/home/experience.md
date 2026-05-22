@@ -12,7 +12,7 @@ experience:
     company: Optical Networking & Sensing, NEC Laboratories America, Inc.
     company_url: 'https://www.nec-labs.com/research/optical-networking-sensing/home/'
     company_logo: NEC
-    location: Princeton, CA, USA
+    location: Princeton, NJ, USA
     date_start: '2025-05-19'
     date_end: '2025-08-15'
     description: |2-
@@ -34,7 +34,7 @@ experience:
       * Fall 2022: **CS416** Operating Systems Design
 
   - title: Research Assistant
-    company: Computer Science Department, Syracuse University
+    company: College of Engineering And Computer Science, Syracuse University
     company_url: 'https://ecs.syracuse.edu'
     company_logo: sy2
     location: Syracuse, NY, USA

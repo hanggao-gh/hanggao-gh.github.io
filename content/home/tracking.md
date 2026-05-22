@@ -16,4 +16,4 @@ subtitle:
 design:
   columns: '2'
 ---
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=HotPQDo8LF2mfpfbSb3kFR6xQrW6j-Zb8Sg_bk9lkdg&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=HotPQDo8LF2mfpfbSb3kFR6xQrW6j-Zb8Sg_bk9lkdg&co=ffffff&cl=000000&w=a&t=n"></script>

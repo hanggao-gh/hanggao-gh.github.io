@@ -59,3 +59,22 @@
 .card-simple:last-of-type{
   margin-bottom: 1.5rem;
 }
+
+// Blend the visitor map into the page background.
+#tracking {
+  background: #ffffff;
+}
+
+#mapmyvisitors-widget,
+#mapmyvisitors-widget > .mapmyvisitors-map-container,
+#mapmyvisitors-widget .mapmyvisitors-map {
+  border: 0 !important;
+  box-shadow: none !important;
+}
+
+#mapmyvisitors-widget .mapmyvisitors-visitors,
+#mapmyvisitors-widget .mapmyvisitors-date,
+#mapmyvisitors-widget .mapmyvisitors-bottom-text,
+#mapmyvisitors-widget #clstminf {
+  display: none !important;
+}
