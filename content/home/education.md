@@ -13,7 +13,7 @@ experience:
     company_url: 'https://newbrunswick.rutgers.edu/'
     company_logo: rutgers1
     location: Piscataway, NJ, USA
-    date_start: '2021-09-01'
+    date_start: '2022-09-01'
 
   - title: <u>M.S. </u> in Computer Science
     company: Syracuse University
