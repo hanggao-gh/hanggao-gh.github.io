@@ -8,7 +8,7 @@ design:
   columns: '1'
 date_format: Jan 2006
 experience:
-  - title: <u>Ph.D. Student</u> in Computer Science
+  - title: <u>Ph.D. Candidate</u> in Computer Science
     company: Rutgers, The State University of New Jersey - New Brunswick
     company_url: 'https://newbrunswick.rutgers.edu/'
     company_logo: rutgers1

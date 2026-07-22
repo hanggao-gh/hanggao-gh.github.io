@@ -23,7 +23,7 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:h.gao@rutgers.edu'
+  link: 'mailto:hanggao.gh@gmail.com'
 - icon: github
   icon_pack: fab
   link: https://github.com/hanggao-gh
