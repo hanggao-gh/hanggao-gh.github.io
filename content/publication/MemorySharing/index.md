@@ -5,15 +5,15 @@ draft: false
 # Documentation: https://wowchemy.com/docs/managing-content/
 external_link: "https://arxiv.org/abs/2404.09982"
 title: "INMS: Memory Sharing for Large Language Model based Agents"
-subtitle: 'arXiv 2024'
+subtitle: 'IJCNLP-AACL 2026'
 authors: 
 - admin
 - Yongfeng Zhang
-date: 2024-03-22T13:46:25-04:00
+date: 2026-05-01T13:46:25-04:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2024-03-22T13:46:25-04:00
+publishDate: 2026-05-01T13:46:25-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,7 +23,7 @@ publishDate: 2024-03-22T13:46:25-04:00
 
 # Publication name and optional abbreviated publication name.
 # publication: In *ICCV, 2023*
-publication_short: In *arXiv*
+publication_short: In *IJCNLP-AACL*
 
 abstract: ""
 
@@ -43,7 +43,7 @@ featured: false
 #   icon: twitter
 
 links:
-- name: arXiv
+- name: Paper
   url: https://arxiv.org/abs/2404.09982
   icon: file-pdf
   icon_pack: fas

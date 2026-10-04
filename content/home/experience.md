@@ -16,10 +16,11 @@ experience:
     date_start: '2023-09-01'
     date_end: ''
     description: |2-
-      * Set-level optimization for relevance-aware diverse retrieval.
-      * Agentic GraphRAG for robust reasoning over noisy and incomplete KGs.
-      * Pooling & Semantic Shift: A formal theory of long-text embedding retrieval failure.
-      * Confidence-guided multimodal Q&A with complementary evidence selection.
+      * Advisor: [Dimitris N. Metaxas](https://people.cs.rutgers.edu/~dnm/)
+      * Agentic GraphRAG for noisy and incomplete KGs. [[ICML 2026]](https://arxiv.org/abs/2603.14006)
+      * Confidence-Guided Multimodal RAG. [[EMNLP 2026 Findings]](/publication/climb/)
+      * Pooling-Induced Collapse & Semantic Shift in Long-Text Retrieval. [[arXiv 2026]](https://arxiv.org/abs/2603.21437)
+      * Game-Theoretic Confidence Elicitation for LLM Metacognition.
 
   - title: Research Intern
     company: Optical Networking & Sensing, NEC Laboratories America, Inc.
@@ -30,7 +31,7 @@ experience:
     date_end: '2025-08-15'
     description: |2-
       * Works with [Yangmin Ding](https://www.nec-labs.com/research/optical-networking-sensing/people/yangmin-ding/) & [Shaobo Han](https://shaobohan.net).
-      * Efficient GraphRAG for Domain-Specific QA.
+      * Efficient GraphRAG for Domain-Specific QA. [[IJCNLP-AACL 2026]](/publication/bg-rag/)
 
   - title: Research Assistant
     company: College of Engineering And Computer Science, Syracuse University
@@ -41,4 +42,5 @@ experience:
     date_end: '2022-05-01'
     description: |2-
       * Advisor: [Sucheta Soundarajan](http://www.soundarajan.org)
+      * Fairness in Social Network.
 ---

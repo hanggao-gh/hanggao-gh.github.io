@@ -44,7 +44,7 @@ featured: false
 #   icon: twitter
 
 links:
-- name: arXiv
+- name: Paper
   url: https://arxiv.org/abs/2407.04573
   icon: file-pdf
   icon_pack: fas

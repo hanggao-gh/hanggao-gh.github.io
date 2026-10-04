@@ -10,11 +10,11 @@ authors:
 - Dimitris Metaxas
 
 
-date: 2026-03-14T11:50:58-04:00
+date: 2026-07-14T11:50:58-04:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2026-03-14T11:50:58-04:00
+publishDate: 2026-07-14T11:50:58-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -40,7 +40,7 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- name: arXiv
+- name: Paper
   url: https://arxiv.org/abs/2603.14006
   icon: file-pdf
   icon_pack: fas

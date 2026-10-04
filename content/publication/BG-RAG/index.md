@@ -2,22 +2,20 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 draft: false
-title: "CLIMB: Confidence-Guided Complementary Evidence for Multimodal Retrieval-Augmented Generation"
-subtitle: 'EMNLP 2026 Findings'
+title: "BG-RAG: Concept-Mediated Bipartite Graphs for Scalable RAG"
+subtitle: 'IJCNLP-AACL 2026'
 show_date: false
 profile: false 
 authors:
 - admin
-- Wujiang Xu
-- Zhixing Zhang
-- Kai Mei
-- Jingyi Yang
-- Dimitris Metaxas
-date: 2026-08-21T17:01:03-04:00
+- Yangmin Ding
+- Shaobo Han
+- Zhuocheng Jiang
+date: 2026-06-21T17:01:03-04:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2026-08-21T17:01:03-04:00
+publishDate: 2026-06-21T17:01:03-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,7 +25,7 @@ publishDate: 2026-08-21T17:01:03-04:00
 
 # Publication name and optional abbreviated publication name.
 # publication: In *CVPR, 2022*
-publication_short: In *EMNLP Findings*
+publication_short: In *IJCNLP-AACL*
 
 abstract: ""
 
@@ -81,4 +79,4 @@ slides: ""
 
 ## Abstract
 
-Multimodal large language models (MLLMs) have shown strong visual reasoning abilities, but knowledge-intensive visual question answering often requires external textual evidence beyond the image and the model's parametric knowledge. Existing multimodal RAG systems commonly rely on Top-$K$ retrieval or reranking, which may return redundant passages and provide limited control over whether an answer update is sufficiently supported by the retrieved evidence. We propose \textit{CLIMB}, a training-free inference-time framework for multimodal RAG. CLIMB first constructs a compact complementary evidence pool using an MMR-style objective that balances query relevance and passage-level redundancy. It then performs confidence-controlled refinement within this fixed pool: an R/E/C critic scores passages by relevance, evidence specificity, and cross-modal alignment, while an evidence-grounded confidence estimator accepts an updated answer only when the estimated confidence increases. This design provides a simple stopping criterion and reduces unnecessary refinement without modifying the underlying retriever or MLLM. Experiments on Encyclopedic-VQA and InfoSeek show that CLIMB consistently improves over retrieval-augmented multimodal baselines. Ablations further indicate that complementary pooling, critic-based scoring, and iterative confidence-controlled refinement each contribute to the final performance.
+Graph-structured retrieval-augmented generation (GraphRAG) has shown strong potential for improving multi-hop reasoning in large language models. However, existing approaches typically depend on dense entity–entity linking, which is computationally expensive, susceptible to hallucinated relations, and difficult to maintain under continual updates. We present Bipartite Graph Retrieval-Augmented Generation (BG-RAG), a lightweight bipartite framework that organizes knowledge into three layers, from chunks to entities to concepts, and replaces direct entity links with concept-mediated connections. This design enables more efficient graph construction, reduces reliance on hallucination-prone relation-edge prediction by avoiding explicit entity–entity relation extraction, and naturally supports incremental updates without global reconstruction. Experiments on HotpotQA, 2Wiki, and MuSiQue show that BG-RAG achieves competitive performance against RAG and GraphRAG baselines. Its concept-mediated structure also provides a lightweight alternative to dense entity–entity graph construction. These results suggest that BG-RAG is a lightweight alternative for retrieval-augmented generation, particularly when avoiding dense entity–entity linking is desirable.

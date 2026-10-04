@@ -14,11 +14,11 @@ authors:
 - Juntao Tan
 - Yongfeng Zhang
 
-date: 2025-10-06T11:50:58-04:00
+date: 2025-04-06T11:50:58-04:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2025-10-12T20:36:54-04:00
+publishDate: 2025-04-12T20:36:54-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -42,7 +42,7 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- name: arXiv
+- name: Paper
   url: https://arxiv.org/abs/2502.12110
   icon: file-pdf
   icon_pack: fas

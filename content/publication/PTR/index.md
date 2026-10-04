@@ -5,7 +5,7 @@ profile: false
 draft: false
 external_link: "https://arxiv.org/abs/2411.09613"
 title: "Task-Aligned Tool Recommendation for Large Language Models"
-subtitle: 'IJCNLP-AACL 2025(Oral)'
+subtitle: 'IJCNLP-AACL 2025'
 authors: 
 - admin
 - Yongfeng Zhang
@@ -23,7 +23,7 @@ publishDate: 2025-07-01T20:39:22-07:00
 
 # Publication name and optional abbreviated publication name.
 # publication: ""
-publication_short: In *IJCNLP-AACL (Oral)*
+publication_short: In *IJCNLP-AACL*
 
 abstract: ""
 
@@ -43,7 +43,7 @@ featured: false
 #   icon: twitter
 
 links:
-- name: arXiv
+- name: Paper
   url: "https://arxiv.org/abs/2411.09613"
   icon: file-pdf
   icon_pack: fas
