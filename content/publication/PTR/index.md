@@ -3,7 +3,7 @@
 show_date: false
 profile: false 
 draft: false
-external_link: "https://arxiv.org/abs/2411.09613"
+external_link: "https://aclanthology.org/2025.ijcnlp-long.110/"
 title: "Task-Aligned Tool Recommendation for Large Language Models"
 subtitle: 'IJCNLP-AACL 2025'
 authors: 
@@ -44,7 +44,7 @@ featured: false
 
 links:
 - name: Paper
-  url: "https://arxiv.org/abs/2411.09613"
+  url: "https://aclanthology.org/2025.ijcnlp-long.110/"
   icon: file-pdf
   icon_pack: fas
 # - name: Code

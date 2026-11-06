@@ -1,0 +1,23 @@
+@inproceedings{gao-etal-2026-climb,
+    title = "{CLIMB}: Confidence-Guided Complementary Evidence for Multimodal Retrieval-Augmented Generation",
+    author = "Gao, Hang  and
+      Xu, Wujiang  and
+      Zhang, Zhixing  and
+      Mei, Kai  and
+      Yang, Jingyi  and
+      Metaxas, Dimitris N.",
+    editor = "Lee, Hung-Yi  and
+      Dev, Sunipa  and
+      Li, Jessy  and
+      Elliott, Desmond",
+    booktitle = "Findings of the {A}ssociation for {C}omputational {L}inguistics: {EMNLP} 2026",
+    month = oct,
+    year = "2026",
+    address = "Budapest, Hungary",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.findings-emnlp.660/",
+    doi = "10.18653/2026.findings-emnlp.660",
+    pages = "13842--13857",
+    ISBN = "979-8-89176-462-0",
+    abstract = "Multimodal large language models (MLLMs) have shown strong visual reasoning abilities, but knowledge-intensive visual question answering often requires external textual evidence beyond the image and the model{'}s parametric knowledge. Existing multimodal RAG systems commonly rely on Top- retrieval or reranking, which may return redundant passages and provide limited control over whether an answer update is sufficiently supported by the retrieved evidence. We propose \textit{CLIMB}, a training-free inference-time framework for multimodal RAG. CLIMB first constructs a compact complementary evidence pool using an MMR-style objective that balances query relevance and passage-level redundancy. It then performs confidence-controlled refinement within this fixed pool: an R/E/C critic scores passages by relevance, evidence specificity, and cross-modal alignment, while an evidence-grounded confidence estimator accepts an updated answer only when the estimated confidence increases. This design provides a simple stopping criterion and reduces unnecessary refinement without modifying the underlying retriever or MLLM. Experiments on Encyclopedic-VQA and InfoSeek show that CLIMB consistently improves over retrieval-augmented multimodal baselines. Ablations further indicate that complementary pooling, critic-based scoring, and iterative confidence-controlled refinement each contribute to the final performance."
+}

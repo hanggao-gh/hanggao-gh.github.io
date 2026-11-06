@@ -17,9 +17,9 @@ experience:
     date_end: ''
     description: |2-
       * Advisor: [Dimitris N. Metaxas](https://people.cs.rutgers.edu/~dnm/)
-      * Agentic GraphRAG for noisy and incomplete KGs. [[ICML 2026]](https://arxiv.org/abs/2603.14006)
-      * Confidence-Guided Multimodal RAG. [[EMNLP 2026 Findings]](/publication/climb/)
-      * Pooling-Induced Collapse & Semantic Shift in Long-Text Retrieval. [[arXiv 2026]](https://arxiv.org/abs/2603.21437)
+      * Agentic GraphRAG for noisy and incomplete KGs. [[ICML 2026]](https://arxiv.org/pdf/2603.14006)
+      * Confidence-Guided Multimodal RAG. [[EMNLP 2026 Findings]](https://aclanthology.org/2026.findings-emnlp.660.pdf)
+      * Pooling-Induced Collapse & Semantic Shift in Long-Text Retrieval. [[arXiv 2026]](https://arxiv.org/pdf/2603.21437)
       * Game-Theoretic Confidence Elicitation for LLM Metacognition.
 
   - title: Research Intern
@@ -31,7 +31,7 @@ experience:
     date_end: '2025-08-15'
     description: |2-
       * Works with [Yangmin Ding](https://www.nec-labs.com/research/optical-networking-sensing/people/yangmin-ding/) & [Shaobo Han](https://shaobohan.net).
-      * Efficient GraphRAG for Domain-Specific QA. [[IJCNLP-AACL 2026]](/publication/bg-rag/)
+      * Efficient GraphRAG for Domain-Specific QA. [[IJCNLP-AACL 2026]](https://aclanthology.org/2026.aacl-short.58.pdf)
 
   - title: Research Assistant
     company: College of Engineering And Computer Science, Syracuse University

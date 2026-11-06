@@ -2,6 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 draft: false
+external_link: "https://aclanthology.org/2026.findings-emnlp.660/"
 title: "CLIMB: Confidence-Guided Complementary Evidence for Multimodal Retrieval-Augmented Generation"
 subtitle: 'EMNLP 2026 Findings'
 show_date: false
@@ -40,7 +41,11 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-
+links:
+- name: Paper
+  url: "https://aclanthology.org/2026.findings-emnlp.660/"
+  icon: file-pdf
+  icon_pack: fas
 #links:
 #- name: Paper
 #  url: https://arxiv.org/abs/2603.21437

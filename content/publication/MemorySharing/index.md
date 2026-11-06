@@ -3,7 +3,7 @@ show_date: false
 profile: false 
 draft: false
 # Documentation: https://wowchemy.com/docs/managing-content/
-external_link: "https://arxiv.org/abs/2404.09982"
+external_link: "https://aclanthology.org/2026.aacl-long.108/"
 title: "INMS: Memory Sharing for Large Language Model based Agents"
 subtitle: 'IJCNLP-AACL 2026'
 authors: 
@@ -44,7 +44,7 @@ featured: false
 
 links:
 - name: Paper
-  url: https://arxiv.org/abs/2404.09982
+  url: https://aclanthology.org/2026.aacl-long.108/
   icon: file-pdf
   icon_pack: fas
 

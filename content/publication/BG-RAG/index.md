@@ -6,6 +6,7 @@ title: "BG-RAG: Concept-Mediated Bipartite Graphs for Scalable RAG"
 subtitle: 'IJCNLP-AACL 2026'
 show_date: false
 profile: false 
+external_link: "https://aclanthology.org/2026.aacl-short.58/"
 authors:
 - admin
 - Yangmin Ding
@@ -38,7 +39,11 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-
+links:
+- name: Paper
+  url: https://aclanthology.org/2026.aacl-short.58/
+  icon: file-pdf
+  icon_pack: fas
 #links:
 #- name: Paper
 #  url: https://arxiv.org/abs/2603.21437
